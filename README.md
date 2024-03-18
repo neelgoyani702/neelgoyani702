@@ -1,4 +1,4 @@
-# Hi, I'm Jay Keraliya! 👋
+# Hi, I'm Neel Goyani! 👋
 
 I'm a passionate Full Stack Developer with expertise JavaScript, React, Next.js, Express.js, and Tailwind CSS. I love exploring the intersection of web development, building user-friendly interfaces.
 
