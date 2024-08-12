@@ -16,6 +16,7 @@ I'm a passionate Full Stack Developer with expertise JavaScript, React, Next.js,
 
 ## 📚 Tools & Technologies I Want to Learn
 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
